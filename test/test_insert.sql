@@ -1,4 +1,4 @@
-mysql -uroot  -e "use pol_db;   insert into x_test values (90004567);commit;select * from x_test;"
+mysql -uroot  -e "use pol_db;   insert into x_test values (33334445555);commit;select * from x_test;"
 mysql -uroot -e " use pol_db;
 drop procedure x_test_proc;
 DELIMITER //
